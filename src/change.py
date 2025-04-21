@@ -1,1 +1,1 @@
-print("changes have been made")
+print("changes made")
